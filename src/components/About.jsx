@@ -20,10 +20,9 @@ export const About = () => {
                 </div>
                 <div>
                     <p className='pb-4 sm:pb-2 text-left text-4xl font-bold'>I'm Zidan, nice to meet you. Please take a look around.</p>
-                    <p className='sm:pt-2'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                        Sint velit accusamus impedit, 
-                        suscipit tenetur ipsam quas fugiat atque molestias. 
-                        Suscipit nisi autem illum unde error cum praesentium atque nesciunt voluptatibus?
+                    <p className='sm:pt-2'>I graduated last January 2024 from Universitas Islam Indonesia majoring Informatics. 2022-2024 is my rough year because 
+                    post covid era. I still struggling with my thesis , but luckily i can finish what i've started. And now, i'm ready to be back. I wanna fresh start
+                    and try my best!
                     </p>
                 </div>
             </div>
