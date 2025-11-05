@@ -19,10 +19,11 @@ export const About = () => {
                     <img className='w-600 mx-auto rounded-md' src={fotoprofil} alt="Foto Profil" />
                 </div>
                 <div>
-                    <p className='pb-4 sm:pb-2 text-left text-4xl font-bold'>I'm Zidan, nice to meet you. Please take a look around.</p>
-                    <p className='sm:pt-2'>I graduated last January 2024 from Universitas Islam Indonesia majoring Informatics. 2022-2024 is my rough year because 
-                    post covid era. I still struggling with my thesis , but luckily i can finish what i've started. And now, i'm ready to be back. I wanna fresh start
-                    and try my best!
+                    <p className='pb-4 sm:pb-2 text-left text-4xl font-bold'>You can call me Zidan. Here is my backround.</p>
+                    <p className='sm:pt-2 text-justify'>My education background is that I graduated on January 2024 from Universitas Islam Indonesia with major Informatics. 
+                    For my work experiences, i do internship as Wordpress Developer on PT. Pameo Solusi Indonesia on August - December 2022. Currently, i'm exploring my expertise
+                    from data analysis and backend development. I'm ready to impove and adapt to the new technologies. 
+                    Please check out my resume/CV by pressing<strong className='text-lg'> My Resume</strong>  button below.
                     </p>
                 </div>
             </div>
@@ -33,8 +34,9 @@ export const About = () => {
                 {/* Aligns the button to the right */}
                     <div className='flex justify-end'> 
                         <a href='https://drive.google.com/file/d/18eHsuDgg9g7rTa9e_rBVyE8heQiLhh0a/view?usp=drive_link' target='blank_'>
-                        <button className='bg-[#DAD7CD] text-[#3A5A40] px-6 py-3 my-2 flex items-center transition-colors duration-300 hover:bg-[#588157] hover:text-white hover:shadow-md rounded-full'>
-                        <HiArrowNarrowDown className='mr-3'/> My Resume 
+                        <button className="bg-[#3A5A40] text-[#DAD7CD] px-6 py-3 my-2 flex items-center rounded-full 
+                            transition-all duration-300 hover:bg-[#4C7351] hover:scale-105 hover:shadow-md">
+                            <HiArrowNarrowDown className="mr-3" /> My Resume
                         </button>
                         </a>
                     </div>
