@@ -3,12 +3,6 @@ import { HiArrowNarrowRight } from "react-icons/hi";
 import Button from "../common/Button.jsx";
 
 const Home = () => {
-  const scrollToWorkSection = () => {
-    const workSection = document.querySelector('[name="work"]');
-    if (workSection) {
-      workSection.scrollIntoView({ behavior: "smooth" });
-    }
-  };
   return (
     <div name="home" className="w-full h-screen bg-[#DAD7CD]">
       {/* {Container} */}
