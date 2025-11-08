@@ -1,6 +1,6 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
-import Project2Img from '../assets/project2.jpg'
+import WorkImg from '../../assets/workImg.jpeg'
+import Project2Img from '../../assets/project2.jpg'
 
 function Work() {
   return (

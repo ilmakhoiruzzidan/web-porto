@@ -1,11 +1,11 @@
 import React from 'react'
 
-import JavaScript from '../assets/javascript.png'
-import HTML from '../assets/html.png'
-import CSS from '../assets/css.png'
-import ReactImg from '../assets/react.png'
-import Github from '../assets/github.png'
-import Tailwind from '../assets/tailwind.png'
+import JavaScript from '../../assets/javascript.png'
+import HTML from '../../assets/html.png'
+import CSS from '../../assets/css.png'
+import ReactImg from '../../assets/react.png'
+import Github from '../../assets/github.png'
+import Tailwind from '../../assets/tailwind.png'
 
 function Skills() {
   return (
